@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="greensoftt">#ACC985</color>
+    <color name="greensoft">#81A35A</color>
+    <color name="greenhard">#65A21A</color>
+    <color name="orange">#BD7F1C</color>
+    <color name="orangesoft">#EBAF55</color>
+    <color name="cream">#DFC156</color>
+    <color name="blue">#2774A9</color>
+</resources>
+
